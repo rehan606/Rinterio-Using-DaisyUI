@@ -7,7 +7,7 @@
 <p align="center">"Rinterio"  - Tailwind CSS & DaisyUI Interior Design Website. Rinterio is a sleek and modern website template designed for interior design businesses. Built with HTML, Tailwind CSS, and DaisyUI."</p>
 
  <p align="center">
-<a href="https://rehan606.github.io/Biker-Zone-Using-DaisyUI/">📱 Visit this Project</a>
+<a href="https://rehan606.github.io/Rinterio-Using-DaisyUI/">📱 Visit this Project</a>
 </p> 
 
 <h2 id="layout">🎨 Layout</h2>
