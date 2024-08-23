@@ -14,7 +14,7 @@
 
 <p align="center">
     <img src="https://i.ibb.co/hKdWPNg/Rintorio.png" alt="Rintorio" border="0" width="400px"> 
-</p>
+
 
 </br>
  
