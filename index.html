@@ -32,9 +32,11 @@
                             'sectionBg1': '#a4dac3',
                         },
 
-                        backgroundImage: {
-                            'contactBg': "url('/assets/images/bg.jpg')",
-                        },
+
+
+                        // backgroundImage: {
+                        //     'contactBg': "url('/assets/images/bg.jpg')",
+                        // },
 
                     },
 
@@ -42,11 +44,18 @@
                 },
             }
         </script>
-        <!-- Font Family -->
 
         <style>
             body{
                 font-family: "Manrope", sans-serif;
+            }
+
+            /* Background image using TailwindCSS not Working on live gitHub Project. so using background image with custom CSS. */
+            .contact{
+                background-image: url(./assets/images/bg.jpg);
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
             }
             
         </style>
@@ -484,7 +493,7 @@
         </section>
 
         <!-- Contact Form -->
-        <section class="bg-contactBg bg-cover bg-center">
+        <section class="contact">
             <div class="container mx-auto py-20 px-5 md:px-10">
                 <!-- contact header-->
                 <div class=" md:w-3/4 mx-auto text-center">
