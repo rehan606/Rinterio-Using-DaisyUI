@@ -14,7 +14,8 @@
    
 
 <p align="center">
- <img src="https://i.ibb.co/hKdWPNg/Rintorio.png" alt="Rintorio" border="0" width="400px">  </p>
+<img src="https://i.ibb.co/d7X3wvS/screencapture-127-0-0-1-5500-index-html-2024-08-23-23-15-17.png" alt="screencapture-127-0-0-1-5500-index-html-2024-08-23-23-15-17" border="0" width="400px">
+
 </br>
  
 <h2 id="technologies">💻 Technologies</h2>
