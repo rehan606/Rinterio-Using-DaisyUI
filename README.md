@@ -1,4 +1,4 @@
-                  
+                   
  
 <h1 align="center" style="font-weight: bold;">💻 Rinterio Html,Tailwind and DaisyUI Responsive Template 💻</h1>
 
